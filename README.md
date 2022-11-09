@@ -17,8 +17,5 @@
 ### Public Repo
 - https://github.com/QuyenZuyWin/learning-html-css-js-basic
 - 
-### Docker Builder
-(You need my consent for some repos below)
-
-### Project
+### Main Project
 (You need my consent for some repos below)
