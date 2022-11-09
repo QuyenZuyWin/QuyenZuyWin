@@ -1,15 +1,20 @@
 [![@nogaun's Holopin board](https://holopin.me/nogaun)](https://holopin.io/@nogaun)
-### Hi there 👋
 
-**nogaun/nogaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🇻🇳 Hi there 👋 I'm Developer Fullstack website 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What I can do?
+- 👍 Build docker for all 
+- 🥇 Fullstack Php: Laravel, Cake, any php framework ... 😙 or Pure Php if use like it 
+- 🍀 Fullstack Nodejs: I can do almost any framework - with both typescript and javascript
+- 😄 Have worked with many hosting, cloud: aws, digitalOcean, heroku, cpanel, ...
+- 🌝 Mastering SQL and Lean Code Style
+
+### My Website
+
+- https://artisan-worker.com
+
+### Docker Builder
+(You need my consent for some repos below)
+
+### Project
